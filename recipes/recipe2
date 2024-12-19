@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><strong> Recipe for the Grinch </strong></h1>
+    <img src = "../images/grinch.jpg"alt= "picture of grinch" width = "300" height = "300">
+    <img src = "../images/grinch2.png"alt= "picture of grinch" width = "300" height = "300">
+    <h2>These little fruit skewers are simple to make and a great addition to your appetizers at any Christmas party.</h2>
+    <p>Ingredients Required</p>
+    <p><ul>
+        <li>24 Green Grapes</li>
+        <li>1 Large Banana</li>
+        <li>24 Strawberries</li>
+    </ul></p>
+    <p>Detailed Instructions</p>
+    <p><ol>
+        <li>Gather all the Ingredients</li>
+        <li>Run everything you see through a skewer</li>
+        <li>You're pretty much done!</li>
+    </ol></p>
+</body>
+</html>
